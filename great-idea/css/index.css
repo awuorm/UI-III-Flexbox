@@ -97,15 +97,16 @@ h1, h2, h3, h4, h5 {
 
 }
 .greatlogo2 {
-	max-width: auto;
+	font-size: 80px;
+	font-weight: bold;
 	display: flex;
 	justify-content: space-evenly;
 	flex-direction: column;
 	
 }
- section .greatlogo2 h1{
+/* section .greatlogo2 h1{
 	font-size: 100px;
-	font-weight: bold;
+	font-weight: bold;*/
 	
 	
 }
