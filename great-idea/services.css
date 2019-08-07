@@ -1,0 +1,24 @@
+.contservices{
+    max-width: 1000px;
+    margin: 0 auto;
+
+}
+.navigation
+{
+display: flex;
+    padding: 10px 10px;
+    border: 5px solid black; 
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+nav{
+	padding:10px 10px ;
+	border: 10px;
+    margin: 0 40px;
+    width: 70%;
+	display:flex;
+	justify-content: space-evenly;
+	
+}
