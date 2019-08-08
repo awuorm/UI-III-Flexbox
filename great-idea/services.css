@@ -116,6 +116,8 @@ button {
     border-radius: 8px;
     padding: 10px 24px;
 }
-
+h1 h2 {
+    text-transform:uppercase;
+}
 
 
