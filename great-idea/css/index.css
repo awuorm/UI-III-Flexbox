@@ -110,6 +110,16 @@ h1, h2, h3, h4, h5 {
 	
 	
 }
+hr{
+	border: 2px solid black;
+}
+h1, h2 {
+	text-align: center;
+}
+
+.contact h2{
+	text-align: left;
+}
 .greatimage2{	
 	padding: 100px 0px 20px 60px;
 }
